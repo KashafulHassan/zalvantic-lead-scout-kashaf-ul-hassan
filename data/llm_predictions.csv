@@ -1,0 +1,221 @@
+lead_id,name,company,need,budget_band,timeline_weeks,country,temperature,service_fit,pred_temperature,pred_service_fit
+lead-0001,Tammy Hill,Bentley-Mueller,Looking for the cheapest option to automate invoice processing with AI.,low,43.0,Russian Federation,cold,ai_automation,cold,ai_automation
+lead-0002,Kristen Lane,"Santiago, Black and Scott",We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,medium,5.0,Marshall Islands,hot,web_backend,hot,web_backend
+lead-0003,Elizabeth Brown,"Levine, Ortiz and Morrison",URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,2.0,Myanmar,hot,ai_automation,hot,ai_automation
+lead-0004,Cassidy Lane,"Gonzalez, Stone and Wang",Looking for the cheapest option to automate invoice processing with AI.,low,20.0,Mauritius,cold,ai_automation,cold,ai_automation
+lead-0005,Taylor Mccann,Ortega-Gibson,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,medium,12.0,Iran,warm,web_backend,warm,web_backend
+lead-0006,Sharon Bentley,Martinez Ltd,We need a vendor to dashboard for sales analytics. Please send a proposal.,high,7.0,New Caledonia,hot,ai_automation,hot,ai_automation
+lead-0007,Charles Davis,Henry-Hanna,we want more digital. reach out.,unknown,,Rwanda,cold,neither,cold,neither
+lead-0008,Barbara Kidd,"Smith, Burke and Owens","w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,Montenegro,cold,ai_automation,cold,ai_automation
+lead-0009,Julia Smith MD,"Nicholson, Wyatt and Miller",URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,7.0,Yemen,hot,web_backend,hot,web_backend
+lead-0010,Tracy Hamilton,"Davis, Schwartz and Ramirez","not sure, maybe something with AI?",unknown,,Jamaica,cold,neither,cold,neither
+lead-0011,Carmen Miller,Jones-Alvarez,We need a vendor to build a customer support chatbot. Please send a proposal.,medium,5.0,Indonesia,hot,ai_automation,hot,ai_automation
+lead-0012,Misty James,Blair-Kennedy,we want more digital. reach out.,unknown,,Kenya,cold,neither,cold,neither
+lead-0013,Beth Soto,Fleming Inc,"w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,Maldives,cold,ai_automation,cold,ai_automation
+lead-0014,Debbie Roy,"Hernandez, Greer and Hart",We need a vendor to automate invoice processing with AI. Please send a proposal.,high,12.0,Luxembourg,warm,ai_automation,warm,ai_automation
+lead-0015,Amy Wells,Hayes Ltd,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,12.0,Antarctica (the territory South of 60 deg S),warm,web_backend,warm,web_backend
+lead-0016,Jessica Jimenez,"Sanford, Boone and Reed",We need a vendor to dashboard for sales analytics. Please send a proposal.,high,7.0,Bhutan,hot,ai_automation,hot,ai_automation
+lead-0017,Carlos Rivera,"Brown, Dawson and Gill",URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,4.0,Papua New Guinea,hot,ai_automation,hot,ai_automation
+lead-0018,Steven Kent,Phelps-Reed,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,4.0,Namibia,hot,ai_automation,hot,ai_automation
+lead-0019,Kristina Lewis,Howard LLC,"w3 wnt to migr4t3 our d4t4 pip3line to the cloud 4s4p, send deti4ls",unknown,,Anguilla,cold,web_backend,cold,web_backend
+lead-0020,Vincent Hansen,"Taylor, Rodriguez and Jackson",We need a vendor to build a customer support chatbot. Please send a proposal.,medium,9.0,Ecuador,warm,ai_automation,warm,ai_automation
+lead-0021,Michele Houston,"Sanchez, Davis and Cox",improve things generally.,unknown,,Zambia,cold,neither,cold,neither
+lead-0022,Jodi Rojas,"Johnson, Ramirez and Stuart",We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,12.0,Iceland,warm,ai_automation,warm,ai_automation
+lead-0023,Christopher Wheeler,Conway and Sons,URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,8.0,United States of America,hot,web_backend,hot,web_backend
+lead-0024,Kristen Moore,"Johnson, Henson and Armstrong",improve things generally.,unknown,,Azerbaijan,cold,neither,cold,neither
+lead-0025,Kristin Cruz,Salinas-Mccarty,URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,6.0,Gabon,hot,web_backend,hot,web_backend
+lead-0026,Andrew Taylor,Foster-Lee,"w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,Congo,cold,ai_automation,warm,ai_automation
+lead-0027,Mark Reed,Maxwell-Griffin,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,10.0,Burkina Faso,warm,ai_automation,warm,ai_automation
+lead-0028,Scott Smith,"Williams, Dunn and Hodges",We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,7.0,Cambodia,hot,web_backend,hot,web_backend
+lead-0029,Melinda Smith,Barnett Inc,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,8.0,Palestinian Territory,hot,web_backend,hot,web_backend
+lead-0030,Jerry Hill,Smith-Nelson,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,medium,12.0,Greenland,warm,web_backend,warm,web_backend
+lead-0031,Kimberly Carpenter,Simpson Group,Looking for the cheapest option to dashboard for sales analytics.,low,33.0,Uruguay,cold,ai_automation,cold,ai_automation
+lead-0032,Thomas Ramirez,Rose-Zavala,"w3 wnt to migr4t3 our d4t4 pip3line to the cloud 4s4p, send deti4ls",unknown,,Afghanistan,cold,web_backend,warm,web_backend
+lead-0033,Matthew Castillo,Martinez-Reynolds,"not sure, maybe something with AI?",unknown,,Grenada,cold,neither,cold,neither
+lead-0034,Andrew Mcbride,"Patton, Moore and Kirk",Looking for the cheapest option to automate invoice processing with AI.,low,44.0,Nepal,cold,ai_automation,cold,ai_automation
+lead-0035,Samantha Guerrero,"Bell, Parsons and Kelley",We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,6.0,Peru,hot,ai_automation,hot,ai_automation
+lead-0036,Erika Vasquez,Arias-Miller,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,2.0,Pakistan,hot,web_backend,hot,web_backend
+lead-0037,Aaron Wiggins,Huang-Murphy,improve things generally.,unknown,,Reunion,cold,neither,cold,neither
+lead-0038,Richard Wilcox,Gibson-Lee,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",unknown,14.0,Latvia,warm,ai_automation,warm,ai_automation
+lead-0039,Lance Cabrera,"Griffin, Stewart and Schneider","w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,Brazil,cold,ai_automation,warm,ai_automation
+lead-0040,Stacy Martinez,Mccoy-Jones,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,5.0,Chile,hot,ai_automation,hot,ai_automation
+lead-0041,Miss Anne Roberts MD,"Lester, Gallagher and Thompson",URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,2.0,South Georgia and the South Sandwich Islands,hot,ai_automation,hot,ai_automation
+lead-0042,Austin Mcdonald,"Hill, Sweeney and Bray",We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,4.0,Cambodia,hot,web_backend,hot,web_backend
+lead-0043,Angela Meyer,Dean-Young,"We'd like to build a customer support chatbot, but budget isn't decided yet and the board meets next month.",low,14.0,Congo,warm,ai_automation,warm,ai_automation
+lead-0044,David Craig,"Sherman, Thompson and Martinez","We'd like to build a customer support chatbot, but budget isn't decided yet and the board meets next month.",low,8.0,Saint Martin,warm,ai_automation,warm,ai_automation
+lead-0045,Jessica Vaughn,Williams and Sons,"not sure, maybe something with AI?",unknown,,Tonga,cold,neither,cold,neither
+lead-0046,Valerie Scott,Navarro Inc,Looking for the cheapest option to dashboard for sales analytics.,low,49.0,Liberia,cold,ai_automation,cold,ai_automation
+lead-0047,Sandra Lopez,"Morgan, Cook and Williams",We need a vendor to build a customer support chatbot. Please send a proposal.,high,4.0,Latvia,hot,ai_automation,hot,ai_automation
+lead-0048,Lynn Greer,Roy PLC,We need a vendor to build a customer support chatbot. Please send a proposal.,high,7.0,Belgium,hot,ai_automation,hot,ai_automation
+lead-0049,Sarah Patel,Tran-Clark,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,5.0,Croatia,hot,ai_automation,hot,ai_automation
+lead-0050,Kenneth Horn,Rodriguez-Harrison,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,3.0,United States Minor Outlying Islands,hot,ai_automation,hot,ai_automation
+lead-0051,Anna Sloan,Walker Ltd,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,8.0,Nepal,hot,web_backend,hot,web_backend
+lead-0052,Chloe Russell,Barnett Ltd,Looking for the cheapest option to dashboard for sales analytics.,low,33.0,Serbia,cold,ai_automation,cold,ai_automation
+lead-0053,Samantha Burnett,Williamson-Wyatt,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",low,10.0,Algeria,warm,ai_automation,warm,ai_automation
+lead-0054,Joseph Barker,Ramirez and Sons,improve things generally.,unknown,,Vanuatu,cold,neither,cold,neither
+lead-0055,Wesley Rosario,"Jenkins, Ward and Evans",Looking for the cheapest option to migrate our data pipeline to the cloud.,low,48.0,Netherlands Antilles,cold,web_backend,cold,web_backend
+lead-0056,Travis Williams,Benjamin-Guerrero,Looking for the cheapest option to automate invoice processing with AI.,low,27.0,Jamaica,cold,ai_automation,cold,ai_automation
+lead-0057,Jason Simmons,Prince-Franklin,We need a vendor to build a customer support chatbot. Please send a proposal.,medium,12.0,Korea,warm,ai_automation,warm,ai_automation
+lead-0058,Yolanda Cox,Jones-Swanson,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,medium,5.0,Pakistan,hot,web_backend,hot,web_backend
+lead-0059,Heather Kidd,"Gray, Anderson and Payne",URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,4.0,Ukraine,hot,ai_automation,hot,ai_automation
+lead-0060,David King,Scott-White,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,5.0,French Guiana,hot,ai_automation,hot,ai_automation
+lead-0061,Charles Hunter,"Nichols, Meza and Berg",Looking for the cheapest option to build a customer support chatbot.,low,41.0,Bermuda,cold,ai_automation,cold,ai_automation
+lead-0062,Chloe Kelly,Jones-Sutton,improve things generally.,unknown,,Dominican Republic,cold,neither,cold,neither
+lead-0063,David Vargas,"Dean, Alvarez and Summers",We need a vendor to dashboard for sales analytics. Please send a proposal.,high,7.0,Tuvalu,hot,ai_automation,hot,ai_automation
+lead-0064,Rebecca Marshall,Greer LLC,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,4.0,Antarctica (the territory South of 60 deg S),hot,web_backend,hot,web_backend
+lead-0065,Diane Moreno,Gallagher-Johnson,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,10.0,Christmas Island,warm,web_backend,warm,web_backend
+lead-0066,Tammy Small,Coffey-Salas,improve things generally.,unknown,,Lithuania,cold,neither,cold,neither
+lead-0067,Adriana Levine,Weeks-Bartlett,We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,10.0,Haiti,warm,ai_automation,warm,ai_automation
+lead-0068,Richard Taylor,"Moore, Parker and Lewis",URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,4.0,Jordan,hot,ai_automation,hot,ai_automation
+lead-0069,Robert Hamilton,Garza Inc,We need a vendor to dashboard for sales analytics. Please send a proposal.,high,6.0,Montenegro,hot,ai_automation,hot,ai_automation
+lead-0070,Lisa Hayes,Jackson PLC,we want more digital. reach out.,unknown,,Philippines,cold,neither,cold,neither
+lead-0071,Evelyn Olson,Marquez Ltd,"not sure, maybe something with AI?",unknown,,Sudan,cold,neither,cold,neither
+lead-0072,Mike Cook,"Clayton, Benton and Rogers",improve things generally.,unknown,,Yemen,cold,neither,cold,neither
+lead-0073,Carolyn Wong,Hansen-Pearson,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,5.0,Chile,hot,ai_automation,hot,ai_automation
+lead-0074,Jaclyn Clark,"Sanchez, Strong and Vasquez","We'd like to redesign our e-commerce backend for scale, but budget isn't decided yet and the board meets next month.",low,12.0,Colombia,warm,web_backend,warm,web_backend
+lead-0075,Ashley Travis,Doyle-Castro,"not sure, maybe something with AI?",unknown,,Equatorial Guinea,cold,neither,cold,neither
+lead-0076,Nicholas Moore,"Nguyen, Brown and Fitzgerald","w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,Oman,cold,ai_automation,cold,ai_automation
+lead-0077,Gloria Waters,"Lawson, Holmes and Lowe",We need a vendor to automate invoice processing with AI. Please send a proposal.,high,8.0,Panama,hot,ai_automation,hot,ai_automation
+lead-0078,Hannah Crawford,Davis-Aguilar,"We'd like to migrate our data pipeline to the cloud, but budget isn't decided yet and the board meets next month.",unknown,12.0,Trinidad and Tobago,warm,web_backend,warm,web_backend
+lead-0079,Timothy Williams,Shea-Berg,URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,8.0,American Samoa,hot,ai_automation,hot,ai_automation
+lead-0080,Billy Long,"Santos, Cross and Johnson",We need a vendor to build a customer support chatbot. Please send a proposal.,medium,4.0,Kuwait,hot,ai_automation,hot,ai_automation
+lead-0081,Brittney Davis,Tran-Bernard,Looking for the cheapest option to dashboard for sales analytics.,low,21.0,Korea,cold,ai_automation,cold,ai_automation
+lead-0082,Gavin Lozano,Sweeney-Taylor,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,1.0,Armenia,hot,ai_automation,hot,ai_automation
+lead-0083,Mary Rodriguez,Williams-Kidd,Looking for the cheapest option to dashboard for sales analytics.,low,49.0,Palestinian Territory,cold,ai_automation,cold,ai_automation
+lead-0084,Jason Gutierrez,Grimes-Miller,"w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Brazil,cold,web_backend,cold,web_backend
+lead-0085,Tracy Shaw,Ramirez and Sons,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,6.0,Nigeria,hot,ai_automation,hot,ai_automation
+lead-0086,Randy Lynch,"Ruiz, Brown and Lin",We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,10.0,North Macedonia,warm,ai_automation,warm,ai_automation
+lead-0087,Edward Gilbert,Meyer-Dennis,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,4.0,Cocos (Keeling) Islands,hot,ai_automation,hot,ai_automation
+lead-0088,Kenneth Ruiz,"Lynch, Holt and Pineda",Looking for the cheapest option to migrate our data pipeline to the cloud.,low,41.0,Cambodia,cold,web_backend,cold,web_backend
+lead-0089,Jonathan Middleton,Montgomery-Smith,Looking for the cheapest option to dashboard for sales analytics.,low,30.0,Togo,cold,ai_automation,cold,ai_automation
+lead-0090,Geoffrey Norris,"Wade, Ellison and Jennings","We'd like to redesign our e-commerce backend for scale, but budget isn't decided yet and the board meets next month.",unknown,9.0,Egypt,warm,web_backend,warm,web_backend
+lead-0091,Brian Anderson,Henry Inc,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,11.0,Gabon,warm,web_backend,warm,web_backend
+lead-0092,Mark Pope,Burns-Golden,"not sure, maybe something with AI?",unknown,,Croatia,cold,neither,cold,neither
+lead-0093,Elizabeth Harvey,Johnson-Robbins,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,5.0,Mauritania,hot,ai_automation,hot,ai_automation
+lead-0094,James Moreno,Smith Inc,Looking for the cheapest option to dashboard for sales analytics.,low,28.0,Saint Martin,cold,ai_automation,cold,ai_automation
+lead-0095,Mr. Anthony White,Hays Inc,We need a vendor to build a customer support chatbot. Please send a proposal.,medium,7.0,Costa Rica,hot,ai_automation,hot,ai_automation
+lead-0096,Ronald Stout,Martinez-Carney,"not sure, maybe something with AI?",unknown,,Mauritania,cold,neither,cold,neither
+lead-0097,Jeffrey Lee Jr.,"Herrera, Salas and Jordan",improve things generally.,unknown,,Reunion,cold,neither,cold,neither
+lead-0098,John Hernandez,Forbes-Lee,URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,1.0,Indonesia,hot,ai_automation,hot,ai_automation
+lead-0099,Glenn Flores,"Castaneda, Calhoun and Reed",URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,5.0,Mongolia,hot,ai_automation,hot,ai_automation
+lead-0100,Samuel Casey,Parrish-Miller,"We'd like to automate invoice processing with AI, but budget isn't decided yet and the board meets next month.",low,10.0,Paraguay,warm,ai_automation,warm,ai_automation
+lead-0101,Patricia Rivera,"Meyer, Nielsen and Rogers",We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,8.0,Uruguay,hot,ai_automation,hot,ai_automation
+lead-0102,Cynthia Murphy,"Mccoy, Richard and Berger",We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,7.0,United States Minor Outlying Islands,hot,web_backend,hot,web_backend
+lead-0103,Joseph Barrera,Montoya-Sherman,URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,8.0,Guam,hot,ai_automation,hot,ai_automation
+lead-0104,Amber Bennett,Christensen LLC,We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,10.0,Peru,warm,ai_automation,warm,ai_automation
+lead-0105,Lisa Palmer,"Munoz, Reeves and Meyers","w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,British Indian Ocean Territory (Chagos Archipelago),cold,ai_automation,warm,ai_automation
+lead-0106,Cindy Rogers,Watkins Group,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,6.0,Kazakhstan,hot,web_backend,hot,web_backend
+lead-0107,Christopher Reilly,"Williams, Johnson and Myers",URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,7.0,Romania,hot,ai_automation,hot,ai_automation
+lead-0108,Elizabeth Dominguez,Garcia-Ewing,Looking for the cheapest option to automate invoice processing with AI.,low,22.0,Svalbard & Jan Mayen Islands,cold,ai_automation,cold,ai_automation
+lead-0109,Dylan Martin,Miles-Dixon,"We'd like to redesign our e-commerce backend for scale, but budget isn't decided yet and the board meets next month.",low,11.0,Serbia,warm,web_backend,warm,web_backend
+lead-0110,Joseph Edwards,Ramsey and Sons,Looking for the cheapest option to redesign our e-commerce backend for scale.,low,33.0,Western Sahara,cold,web_backend,cold,web_backend
+lead-0111,Gary Singh,Coleman Group,We need a vendor to build a customer support chatbot. Please send a proposal.,high,4.0,Palestinian Territory,hot,ai_automation,hot,ai_automation
+lead-0112,Michael Morris,"Mcdowell, Glenn and Morton","w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Malawi,cold,web_backend,warm,web_backend
+lead-0113,Ashley Caldwell,Allen and Sons,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,6.0,Oman,hot,ai_automation,hot,ai_automation
+lead-0114,Marilyn Marquez,Cole PLC,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,3.0,Lebanon,hot,web_backend,hot,web_backend
+lead-0115,Emily White,Wright Inc,"We'd like to redesign our e-commerce backend for scale, but budget isn't decided yet and the board meets next month.",low,8.0,Switzerland,warm,web_backend,warm,web_backend
+lead-0116,Christopher Webb,"Hill, Henry and Gibson","w3 wnt to 4utom4t3 invoic3 processing with AI 4s4p, send deti4ls",unknown,,Norway,cold,ai_automation,cold,ai_automation
+lead-0117,Angela West,Ball Group,We need a vendor to build a customer support chatbot. Please send a proposal.,high,7.0,Monaco,hot,ai_automation,hot,ai_automation
+lead-0118,Nicholas Smith,Potter-Thompson,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,4.0,Martinique,hot,ai_automation,hot,ai_automation
+lead-0119,Jennifer Banks,Howard-Mccormick,"w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Lithuania,cold,web_backend,warm,web_backend
+lead-0120,Mr. Jack Swanson,"Gonzales, Patterson and Hobbs",We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,8.0,Tanzania,hot,web_backend,hot,web_backend
+lead-0121,Kathleen Romero,"Davies, Wright and English","w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Switzerland,cold,web_backend,cold,web_backend
+lead-0122,Jennifer Matthews,"Clark, Lutz and Murphy",We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,9.0,Libyan Arab Jamahiriya,warm,web_backend,warm,web_backend
+lead-0123,Ryan Sims,Richard-Doyle,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,9.0,France,warm,ai_automation,warm,ai_automation
+lead-0124,Austin Johnson,Patrick PLC,Looking for the cheapest option to migrate our data pipeline to the cloud.,low,41.0,Cayman Islands,cold,web_backend,cold,web_backend
+lead-0125,Andrea Green,Gonzalez Group,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",unknown,6.0,Kenya,warm,ai_automation,warm,ai_automation
+lead-0126,Ariana Bryant,Perez-Murphy,We need a vendor to build a customer support chatbot. Please send a proposal.,medium,8.0,Eritrea,hot,ai_automation,hot,ai_automation
+lead-0127,Heather Jensen,"Luna, Clark and Robinson",We need a vendor to dashboard for sales analytics. Please send a proposal.,high,9.0,Dominican Republic,warm,ai_automation,warm,ai_automation
+lead-0128,Dakota Holmes,"Kaufman, Ayala and Franco",URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,7.0,French Guiana,hot,ai_automation,hot,ai_automation
+lead-0129,Vanessa West,Kim Group,Looking for the cheapest option to dashboard for sales analytics.,low,23.0,Sweden,cold,ai_automation,cold,ai_automation
+lead-0130,Lance Norton,"Ayala, Martinez and Taylor",improve things generally.,unknown,,Puerto Rico,cold,neither,cold,neither
+lead-0131,Fernando Nelson,Rodriguez LLC,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,4.0,French Polynesia,hot,ai_automation,hot,ai_automation
+lead-0132,Emily Lucas,Carey-Mcdonald,Looking for the cheapest option to dashboard for sales analytics.,low,41.0,Germany,cold,ai_automation,cold,ai_automation
+lead-0133,Jim Wade,Morales and Sons,URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,6.0,Philippines,hot,web_backend,hot,web_backend
+lead-0134,James Mccoy,"White, Kent and Villanueva",improve things generally.,unknown,,Brunei Darussalam,cold,neither,cold,neither
+lead-0135,Mr. Carlos Reyes,Foster Group,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",unknown,7.0,Korea,warm,ai_automation,warm,ai_automation
+lead-0136,Ethan Campbell,Sutton-Mitchell,URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,5.0,Luxembourg,hot,ai_automation,hot,ai_automation
+lead-0137,Joseph Lambert,"Russell, Rivas and Weiss",URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,7.0,Uruguay,hot,ai_automation,hot,ai_automation
+lead-0138,Amy Curry,"Price, Henderson and Fernandez",URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,3.0,Pitcairn Islands,hot,ai_automation,hot,ai_automation
+lead-0139,Nicole Williams,Rose-Blankenship,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,8.0,South Africa,hot,web_backend,hot,web_backend
+lead-0140,Natalie Allen,Miranda-Williams,"not sure, maybe something with AI?",unknown,,Luxembourg,cold,neither,cold,neither
+lead-0141,Larry Simmons,Simmons-Randolph,"not sure, maybe something with AI?",unknown,,Guam,cold,neither,cold,neither
+lead-0142,Michael Fowler,Lamb PLC,improve things generally.,unknown,,Lithuania,cold,neither,cold,neither
+lead-0143,Laura Rios,Pugh Group,Looking for the cheapest option to build a customer support chatbot.,low,34.0,China,cold,ai_automation,cold,ai_automation
+lead-0144,Lisa Reese,Boyle Ltd,improve things generally.,unknown,,Wallis and Futuna,cold,neither,cold,neither
+lead-0145,Katherine Brown,Blackburn LLC,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,5.0,Korea,hot,web_backend,hot,web_backend
+lead-0146,Joseph Cantu,"Jackson, Potts and Williams",We need a vendor to dashboard for sales analytics. Please send a proposal.,high,5.0,Central African Republic,hot,ai_automation,hot,ai_automation
+lead-0147,Kaitlyn Carpenter,"Waters, Porter and James","w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Cape Verde,cold,web_backend,cold,web_backend
+lead-0148,Amanda Dean,"Greene, Scott and Salazar",URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,4.0,Slovakia (Slovak Republic),hot,web_backend,hot,web_backend
+lead-0149,John Garcia,Lewis-Montes,We need a vendor to automate invoice processing with AI. Please send a proposal.,medium,11.0,Norfolk Island,warm,ai_automation,warm,ai_automation
+lead-0150,Olivia Williams,Mueller-Tran,Looking for the cheapest option to automate invoice processing with AI.,low,34.0,Dominica,cold,ai_automation,cold,ai_automation
+lead-0151,Nancy Ross,Allen-Decker,improve things generally.,unknown,,Oman,cold,neither,cold,neither
+lead-0152,Martin Mccoy,Flores-Cole,Looking for the cheapest option to migrate our data pipeline to the cloud.,low,35.0,United States of America,cold,web_backend,cold,web_backend
+lead-0153,Danielle Jones,Blackwell Group,"not sure, maybe something with AI?",unknown,,Kyrgyz Republic,cold,neither,cold,neither
+lead-0154,Sandy Smith,Jensen PLC,URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,2.0,Ecuador,hot,ai_automation,hot,ai_automation
+lead-0155,Martin Ingram,"Cowan, Romero and Wilson",URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,3.0,Greece,hot,web_backend,hot,web_backend
+lead-0156,Sarah Wilson,Roberts-Evans,"w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,Marshall Islands,cold,ai_automation,cold,ai_automation
+lead-0157,Dawn Stokes,Steele Inc,improve things generally.,unknown,,United States of America,cold,neither,cold,neither
+lead-0158,Tony Lopez,Clark-Brock,We need a vendor to automate invoice processing with AI. Please send a proposal.,high,6.0,Mali,hot,ai_automation,hot,ai_automation
+lead-0159,Jose Alvarado,"Higgins, Ruiz and Scott","w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,British Indian Ocean Territory (Chagos Archipelago),cold,ai_automation,warm,ai_automation
+lead-0160,Emily Taylor,Hicks Inc,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",unknown,13.0,Belarus,warm,ai_automation,warm,ai_automation
+lead-0161,Alec Huang,"Lucero, Lewis and Le",Looking for the cheapest option to dashboard for sales analytics.,low,33.0,Martinique,cold,ai_automation,cold,ai_automation
+lead-0162,Sharon Long,"Collins, Ramirez and Murphy","w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,Ethiopia,cold,ai_automation,cold,ai_automation
+lead-0163,Sarah Ramos,Rowe-Hicks,"not sure, maybe something with AI?",unknown,,Liberia,cold,neither,cold,neither
+lead-0164,Devin Mcclure DDS,Clark PLC,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,8.0,Angola,hot,web_backend,hot,web_backend
+lead-0165,Corey Wood,Pope Ltd,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,12.0,Uganda,warm,web_backend,warm,web_backend
+lead-0166,Mrs. Alisha Acevedo,Ross-Guerrero,"not sure, maybe something with AI?",unknown,,Cote d'Ivoire,cold,neither,cold,neither
+lead-0167,Sean Reyes,"Walker, Moore and Parker",We need a vendor to automate invoice processing with AI. Please send a proposal.,high,7.0,Fiji,hot,ai_automation,hot,ai_automation
+lead-0168,James Caldwell,Martinez-Franklin,We need a vendor to build a customer support chatbot. Please send a proposal.,medium,6.0,Burkina Faso,hot,ai_automation,hot,ai_automation
+lead-0169,Diane Anthony,Gallagher Inc,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,7.0,Moldova,hot,web_backend,hot,web_backend
+lead-0170,Melanie Ingram,"Green, Dominguez and Fuller",We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,12.0,Hong Kong,warm,web_backend,warm,web_backend
+lead-0171,Alexis Ramirez,"Perez, Ware and Rosales","not sure, maybe something with AI?",unknown,,Suriname,cold,neither,cold,neither
+lead-0172,Troy Cameron,Miller and Sons,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,4.0,Niger,hot,web_backend,hot,web_backend
+lead-0173,Brian Acevedo,Howell-Hatfield,"w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,Liberia,cold,ai_automation,cold,ai_automation
+lead-0174,Lisa Jenkins,Cook Inc,"not sure, maybe something with AI?",unknown,,Mauritania,cold,neither,cold,neither
+lead-0175,David Roy,Gonzales LLC,"We'd like to build a customer support chatbot, but budget isn't decided yet and the board meets next month.",unknown,12.0,Cote d'Ivoire,warm,ai_automation,warm,ai_automation
+lead-0176,Thomas Ortiz,"Rogers, Nicholson and Anderson",Looking for the cheapest option to dashboard for sales analytics.,low,45.0,Solomon Islands,cold,ai_automation,cold,ai_automation
+lead-0177,Anne Hill,"Davis, Carlson and Macdonald",Looking for the cheapest option to redesign our e-commerce backend for scale.,low,35.0,Jamaica,cold,web_backend,cold,web_backend
+lead-0178,Danielle Silva,Ford PLC,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,4.0,Andorra,hot,web_backend,hot,web_backend
+lead-0179,Ashley Schwartz,Parker PLC,improve things generally.,unknown,,El Salvador,cold,neither,cold,neither
+lead-0180,Nathaniel Garner,Reyes and Sons,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,3.0,Thailand,hot,web_backend,hot,web_backend
+lead-0181,Susan Church,Gilbert and Sons,"w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Turks and Caicos Islands,cold,web_backend,cold,web_backend
+lead-0182,Jose Garza,Bruce-Smith,"We'd like to dashboard for sales analytics, but budget isn't decided yet and the board meets next month.",low,12.0,Thailand,warm,ai_automation,warm,ai_automation
+lead-0183,Ashley Lewis,"Grant, Bowman and Graves",Looking for the cheapest option to automate invoice processing with AI.,low,22.0,Switzerland,cold,ai_automation,cold,ai_automation
+lead-0184,Elizabeth Clark,"Lucero, Delgado and Young",Looking for the cheapest option to redesign our e-commerce backend for scale.,low,47.0,Sweden,cold,web_backend,cold,web_backend
+lead-0185,Dr. Jason Strickland,Lyons Ltd,"not sure, maybe something with AI?",unknown,,Egypt,cold,neither,cold,neither
+lead-0186,Chad Smith,"Wilkins, Hall and Harper",We need a vendor to build a customer support chatbot. Please send a proposal.,medium,11.0,Martinique,warm,ai_automation,warm,ai_automation
+lead-0187,Debra Jackson,"Graham, Simmons and Rodriguez",we want more digital. reach out.,unknown,,Philippines,cold,neither,cold,neither
+lead-0188,Anthony Miller,"Fisher, Brown and Coleman",We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,5.0,Holy See (Vatican City State),hot,web_backend,hot,web_backend
+lead-0189,Teresa Baker,Scott Inc,improve things generally.,unknown,,Timor-Leste,cold,neither,cold,neither
+lead-0190,Cassie Torres,"Marshall, Gonzalez and Cruz",Looking for the cheapest option to build a customer support chatbot.,low,27.0,Zimbabwe,cold,ai_automation,cold,ai_automation
+lead-0191,Mckenzie Miller,"Reed, Duncan and Sanchez",URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,1.0,Colombia,hot,ai_automation,hot,ai_automation
+lead-0192,Sabrina Gomez,"Duncan, Quinn and Ford","We'd like to redesign our e-commerce backend for scale, but budget isn't decided yet and the board meets next month.",low,8.0,Cameroon,warm,web_backend,warm,web_backend
+lead-0193,Jeffrey Thornton,Gonzalez Group,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,medium,7.0,Honduras,hot,web_backend,hot,web_backend
+lead-0194,Beth Bradshaw,"Ross, Jones and Matthews",we want more digital. reach out.,unknown,,Turkmenistan,cold,neither,cold,neither
+lead-0195,Joseph Owens,Grant PLC,URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,2.0,Turkey,hot,web_backend,hot,web_backend
+lead-0196,Melody Murphy,Dunn Inc,URGENT: need to redesign our e-commerce backend for scale within weeks. Budget approved.,high,5.0,Congo,hot,web_backend,hot,web_backend
+lead-0197,Melanie Jones,"Henderson, Swanson and Arnold",We need a vendor to automate invoice processing with AI. Please send a proposal.,high,10.0,Gambia,warm,ai_automation,warm,ai_automation
+lead-0198,Harry Hart,"Brown, Leonard and Rivas",improve things generally.,unknown,,Swaziland,cold,neither,cold,neither
+lead-0199,Dustin Kelly,Alvarado PLC,We need a vendor to dashboard for sales analytics. Please send a proposal.,medium,5.0,Belgium,hot,ai_automation,hot,ai_automation
+lead-0200,Kelly Boyd,"Hines, Winters and Robinson",URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,2.0,Guinea,hot,ai_automation,hot,ai_automation
+lead-0201,Mark Rivas,"Norton, Stone and Harris",URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,1.0,Nepal,hot,ai_automation,hot,ai_automation
+lead-0202,Nathan Mcbride,Flores Group,we want more digital. reach out.,unknown,,Falkland Islands (Malvinas),cold,neither,cold,neither
+lead-0203,Kim Fuller,"Bell, Lowery and Schwartz",URGENT: need to automate invoice processing with AI within weeks. Budget approved.,high,6.0,Micronesia,hot,ai_automation,hot,ai_automation
+lead-0204,Laura Hernandez,Allen-Ramos,We need a vendor to migrate our data pipeline to the cloud. Please send a proposal.,high,5.0,Algeria,hot,web_backend,hot,web_backend
+lead-0205,Diana Garcia,Hayes-Jenkins,we want more digital. reach out.,unknown,,Netherlands Antilles,cold,neither,cold,neither
+lead-0206,Jenny Erickson,Powers-Torres,Looking for the cheapest option to migrate our data pipeline to the cloud.,low,42.0,Kazakhstan,cold,web_backend,cold,web_backend
+lead-0207,Ryan Holland,Ramsey-Maddox,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,12.0,Montserrat,warm,web_backend,warm,web_backend
+lead-0208,Robert Cabrera,Sanchez-Bautista,URGENT: need to migrate our data pipeline to the cloud within weeks. Budget approved.,high,7.0,Croatia,hot,web_backend,hot,web_backend
+lead-0209,Kari Romero,"Lester, Townsend and Martinez","w3 wnt to d4shbo4rd for s4l3s 4n4lytics 4s4p, s3nd deti4ls",unknown,,Central African Republic,cold,ai_automation,cold,ai_automation
+lead-0210,Terri Aguilar,Thompson Group,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,medium,8.0,Andorra,hot,web_backend,hot,web_backend
+lead-0211,Jaclyn Walker,Mccall-Foster,"w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Turks and Caicos Islands,cold,web_backend,cold,web_backend
+lead-0212,Marissa Miller,Ruiz Inc,URGENT: need to dashboard for sales analytics within weeks. Budget approved.,high,7.0,Portugal,hot,ai_automation,hot,ai_automation
+lead-0213,Michael Johnson,"Flowers, Allen and Rush",we want more digital. reach out.,unknown,,Mali,cold,neither,cold,neither
+lead-0214,Christine Vasquez,"Chapman, Everett and Waters","w3 wnt to r3d3sign our e-commerce b4ckend for sc4le 4s4p, send deti4ls",unknown,,Qatar,cold,web_backend,cold,web_backend
+lead-0215,Michael Stewart,Sanders-Miller,we want more digital. reach out.,unknown,,Angola,cold,neither,cold,neither
+lead-0216,Courtney Hess,"Clark, Moore and Ramirez",URGENT: need to build a customer support chatbot within weeks. Budget approved.,high,5.0,Venezuela,hot,ai_automation,hot,ai_automation
+lead-0217,Heather Hunt,Moore-Cook,"w3 wnt to build 4 custom3r support ch4tbot 4s4p, s3nd deti4ls",unknown,,Dominica,cold,ai_automation,warm,ai_automation
+lead-0218,Joanne Wallace,Wong Ltd,Looking for the cheapest option to dashboard for sales analytics.,low,50.0,United Kingdom,cold,ai_automation,cold,ai_automation
+lead-0219,Lisa Santana,Martin-Raymond,We need a vendor to redesign our e-commerce backend for scale. Please send a proposal.,high,11.0,Sri Lanka,warm,web_backend,warm,web_backend
+lead-0220,Elizabeth Vaughn,Mclean-Gonzalez,Looking for the cheapest option to redesign our e-commerce backend for scale.,low,42.0,Germany,cold,web_backend,cold,web_backend
